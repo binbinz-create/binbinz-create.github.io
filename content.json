@@ -1,1 +1,1 @@
-[{"title":"我的第一篇博客文章","date":"2020-09-26T02:40:29.000Z","path":"2020/09/26/我的第一篇博客文章/","tags":[]},{"title":"Hello World","date":"2020-09-26T02:33:09.292Z","path":"2020/09/26/hello-world/","tags":[]}]
+[{"title":"我的第一篇博客文章","date":"2020-09-26T02:40:29.000Z","path":"2020/09/26/我的第一篇博客文章/","tags":[{"name":"java","slug":"java","permalink":"http://example.com/tags/java/"},{"name":"spring","slug":"spring","permalink":"http://example.com/tags/spring/"}]},{"title":"Hello World","date":"2020-09-26T02:33:09.292Z","path":"2020/09/26/hello-world/","tags":[]}]
